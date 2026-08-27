@@ -3,9 +3,9 @@ https://ps4-jb-webkit.vercel.app/
 
 ## Vulnerability Scope
 KEX= Kernel Exploit
-| vue-after-free (Userland) | Lapse (KEX) | Netctrl (KEX) |
-| :------------------------ | :---------- | :--------------- |
-| 5.05–13.04                | 1.01–12.02  | 1.01-13.00       |
+| Lapse (KEX) | Poops (KEX) |
+| ----------  | :--------------- |
+| 1.01–12.02  | 1.01-13.00       |
 
 ## Supported by this Repository
 
